@@ -225,7 +225,7 @@ footer{
 	font-size: 12px;
 }
 .tearms ul li a{
-	margin-right: 10px;
+	margin: -12px 0;
 	color: #626262;
 	display: inline-block;
 	text-decoration: none;
@@ -252,10 +252,10 @@ footer{
 
 }
 .follow{
-	margin: 20px 10px;
+	margin: -4x 17px;
 }
 .social ul li a{
-	margin-right: 10px;
+	margin: -8px 5px;
 	color: #626262;
 	display: inline-block;
 	text-decoration: none;
